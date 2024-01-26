@@ -2,5 +2,5 @@
 #define text "Hello Git"
 
 int main(){
-    printf("Hello Git");
+    printf("Hello Git\n");
 }
