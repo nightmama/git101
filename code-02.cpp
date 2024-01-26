@@ -1,6 +1,7 @@
-#include <stdio.h>
-#define text "Hello Git"
+#include <iostream>
+using namespace std;
 
 int main(){
-    printf("Hello Git");
+    // cout: console output // endl : end lone '\n'
+    cout<< "Hello Git in C++" << endl;
 }
